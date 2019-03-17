@@ -1,5 +1,5 @@
 Config              			= {}
-Config.Locale					= 'es'
+Config.Locale					= 'en'
 Config.ZoneBlipColour 			= 5 
 Config.ZoneBlipSprite 			= 5 
 Config.DestinationMarkerType	= 1 -- If '-1' marker not be displayed
