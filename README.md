@@ -18,8 +18,8 @@ This script is in the development phase. It may not work properly and it needs t
 * [es_extended](https://github.com/ESX-Org/es_extended)
 
 ## Setup
-* Install into resources/[esx]
-* Add the following line to your server.cfg
+* Install into **resources/[esx]**
+* Add the following line to your **server.cfg**
 ```
 start esx_parachute
 ```
