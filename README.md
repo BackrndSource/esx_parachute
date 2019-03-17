@@ -1,4 +1,4 @@
-# esx_parachute
+# esx_parachute - FXServer FiveM Essential ESX
 ## Description
 Parachute jump script for ESX FiveM servers. Players can parachute from the altitude of an airplane. Some code based on [esx_carthief](https://github.com/KlibrDM/esx_carthief) by [KlibrDM](https://github.com/KlibrDM). Thanks! 
 
@@ -10,6 +10,7 @@ This script is in the development phase. It may not work properly and it needs t
 * Add parachute to player when jump
 * Payment¿?
 * Adjust informational messages 
+* Adjust default position (x,y,z) for zones and jumps
 * Performance test
 * ...
 
