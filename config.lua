@@ -1,13 +1,15 @@
 Config              			= {}
 Config.Locale					= 'en'
+
 Config.ZoneBlipColour 			= 5 
 Config.ZoneBlipSprite 			= 5 
-Config.DestinationMarkerType	= 1 -- If '-1' marker not be displayed
+
+Config.DestinationMarkerType	= 1 -- If '-1' all jump markers not be displayed
 Config.DestinationMarkerColour	= {r = 204, 	g = 204, 		b = 0}
 Config.DestinationBlipColour	= 6
 Config.DestinationBlipSprite	= 229
 
---starting zones
+
 Config.Zones = {
 	Zone1 = {
 		Pos				= {x = 759.01, 	y = -3195.18, 	z = 4.97},
